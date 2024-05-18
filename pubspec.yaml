@@ -44,6 +44,7 @@ dependencies:
   cloud_firestore: ^4.17.3
   random_string: ^2.3.1
   provider: ^6.1.2
+  google_sign_in: ^6.2.1
 
 dev_dependencies:
   flutter_test:
